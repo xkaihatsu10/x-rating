@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+textblob      # テキスト感情分析
+emoji         # 絵文字カウント用
